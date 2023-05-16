@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently working on FYP Project Artsy.<br>- 🌱 I’m currently learning flutter.<br>- 👯 I’m looking to collaborate with develops and UI/UX designers.<br>- 🤔 I’m looking for help to find peace.<br>- ⚡ Fun fact: The best place in the world to see rainbows is in Hawaii.
+- 🔭 I’m currently working on FYP Project Artsy.<br>
+- 🌱 I’m currently learning flutter.<br>
+- 👯 I’m looking to collaborate with develops and UI/UX designers.<br>
+- 🤔 I’m looking for help to find peace.<br>
+- ⚡ Fun fact: The best place in the world to see rainbows is in Hawaii.
 
 
 ## 🌐 Socials:
