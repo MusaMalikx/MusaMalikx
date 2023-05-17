@@ -24,7 +24,7 @@
 ### Thanks for Visiting my GitHub Profile!
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MusaMalikx/MusaMalikx/a504955bafe19cc25fb39a67d9a6be645df0cb43/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/MusaMalikx/MusaMalikx/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=MusaMalikx&icon=0&color=0)](https://visitcount.itsvg.in)
